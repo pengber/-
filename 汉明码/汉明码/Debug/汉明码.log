@@ -1,0 +1,4 @@
+﻿  Haming.cpp
+D:\MyCode\CodeInBUCT\大三下\计算机网络\汉明码\汉明码\Haming.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MyCode\CodeInBUCT\大三下\计算机网络\汉明码\汉明码\Haming.cpp(29,31): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  汉明码.vcxproj -> D:\MyCode\CodeInBUCT\大三下\计算机网络\汉明码\Debug\汉明码.exe
